@@ -5,13 +5,12 @@ For example, when words 'MAMBO is ME' are set next to each other, the Mambo char
 
 You will learn new rules and gain better understanding of the game logic as you progress in the game. If you ever get stuck, there is a hint for every level that you can choose to show. Many levels do not have one but several alternative solutions, and you can revisit an earlier level at any time. Solved levels are saved in a cookie in your Pokitto, so the game continues where you left off.
 
-MAKING NEW LEVELS
+### Making New Levels
 
 You can make your own levels by editing the .xml files in the maps/ directory and rebuilding the project in FemtoIDE. Levels are defined as a 14x11 map of ASCII symbols. The script in the scripts/xmlconv.js file automatically converts .xml files into binary data. All the ASCII symbols are explained in the script file.
 
 ### License
 Source code is released under the MIT License.
 
-Graphics by jpfli, CCBY 3.0
+Graphics by jpfli, CCBY 3.0\
 Sounds by jpfli and from Freesound.org, CC0 1.0
-
