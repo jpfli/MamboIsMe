@@ -7,7 +7,7 @@ You will learn new rules and gain better understanding of the game logic as you 
 
 ### Making New Levels
 
-You can make your own levels by editing the .xml files in the maps/ directory and rebuilding the project in FemtoIDE. Levels are defined as a 14x11 map of ASCII symbols. The script in the scripts/xmlconv.js file automatically converts .xml files into binary data. All the ASCII symbols are explained in the script file.
+You can make your own levels by editing the .xml files in the maps/ directory and rebuilding the project in [FemtoIDE](https://github.com/felipemanga/FemtoIDE). Levels are defined as a 14x11 map of ASCII symbols. The script in the scripts/xmlconv.js file automatically converts .xml files into binary data. All the ASCII symbols are explained in the script file.
 
 ### License
 Source code is released under the MIT License.
